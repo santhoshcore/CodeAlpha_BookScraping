@@ -65,7 +65,7 @@ Python 3, Windows, VS Code / any editor, Git & GitHub.
 ## Results
 > Replace this section with YOUR actual results after running the code (copy numbers from the `analysis.py` output).
 
-- Total records: `40`
+- Total records: `500`
 - Average price: `£34.96`
 - Cheapest book: `In Her Wake` (£12.84)
 - Most expensive book: `Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981–1991` (£57.25)

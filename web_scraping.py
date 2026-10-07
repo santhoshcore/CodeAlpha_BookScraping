@@ -23,10 +23,10 @@ OUTPUT_FILE = "scraped_data.csv"
 
 # TEST_MODE = True  -> scrapes only 2 pages (40 books) so you can test quickly.
 # TEST_MODE = False -> scrapes ALL 50 pages (1000 books). Takes ~10-15 minutes.
-TEST_MODE = False
-TEST_PAGES = 2
+TEST_MODE = True
+TEST_PAGES = 25
 
-DELAY_SECONDS = 0.5   # polite pause between requests (don't hammer the server)
+DELAY_SECONDS = 0.1   # polite pause between requests (don't hammer the server)
 TIMEOUT = 10          # give up on a request after 10 seconds
 RETRIES = 3           # try each page up to 3 times
 
